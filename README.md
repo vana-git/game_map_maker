@@ -1,4 +1,4 @@
-the code is using the librairie:
+the code is using the librairies:
 SDL2              https://github.com/libsdl-org/SDL.git                https://www.libsdl.org/
 SDL2_image        https://github.com/libsdl-org/SDL_image.git
 SDL2_ttf          https://github.com/libsdl-org/SDL_ttf.git
